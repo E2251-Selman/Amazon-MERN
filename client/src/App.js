@@ -1,4 +1,4 @@
-import "./App.css";
+//import "./App.css";
 import Header from "./pages/home/Header";
 
 function App() {
